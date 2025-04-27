@@ -11,7 +11,7 @@ I am a computer science engineer and have experience in working in many startups
 <hr />
 
 ### Visitor count
-<img src="https://portfoliokhader.vercel.app/" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://x.com/khadaer_)
