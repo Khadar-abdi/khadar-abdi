@@ -3,7 +3,7 @@
 I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
 
-- 🔭 I’m currently working on [Nextjs, Typescript, ORM and flutter.](https://github.com/Khadar-abdi/Hamud.io)
+- 🔭 I’m currently working on [Hamud.io](https://github.com/Khadar-abdi/Hamud.io)
 - 🍔 Founder (...).
 - ⚡ Currently Working at SaaS Application.
 - 💬 Read out my blogs on [Journal](https://portfoliokhader.vercel.app/)
